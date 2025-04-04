@@ -1,0 +1,19 @@
+{
+  "name": "nodejscrud",
+  "version": "1.0.0",
+  "description": "this is vanilla nodeJS CRUD API Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodejscrud": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
